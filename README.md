@@ -13,7 +13,7 @@ Qt Network Module: Provides an alternative way to fetch data using Qt’s built-
 🎥 Demo
 
 Watch the application in action:
-https://github.com/user-attachments/assets/03157e7d-fef0-4ab7-ac55-b4d316ed985f
+https://github.com/user-attachments/assets/ed3ce8e6-cb2e-495b-b39a-27e86e34294a
 
 🚀 How to Run
 
