@@ -1,4 +1,41 @@
-# Weather-App-with-c-and-Qt.
-This is made with api form the openweather map. The Qt libarary is used to parse the json data. 
-The Qt libarary makes it so easy to crate the GUI for the app.
-For the api request the <wininet.h> can be used. It is avilable for the all the window users readily. You may also use the Qt Libarary for the API request.
+This weather application is built using C++ and Qt, leveraging the OpenWeatherMap API to fetch real-time weather data. The Qt library is used for both JSON parsing and GUI creation, making the development process seamless and efficient.
+
+✨ Features
+
+✅ Fetches real-time weather data from OpenWeatherMap✅ User-friendly GUI built with Qt✅ JSON parsing using Qt JSON library✅ API requests can be made using either WinINet (<wininet.h>) or Qt's networking modules✅ Compatible with Windows
+
+🌐 API Request Methods
+
+WinINet (<wininet.h>): A built-in Windows API for making HTTP requests.
+
+Qt Network Module: Provides an alternative way to fetch data using Qt’s built-in networking features.
+
+🎥 Demo
+
+Watch the application in action:
+https://github.com/user-attachments/assets/03157e7d-fef0-4ab7-ac55-b4d316ed985f
+
+🚀 How to Run
+
+Clone the repository
+
+git clone https://github.com/your-repo/weather-app.git
+cd weather-app
+
+Set up Qt and a C++ compiler
+
+Obtain an OpenWeatherMap API key
+
+Build and run the project
+
+🎨 Customization
+
+Modify the UI using Qt Designer (.ui files)
+
+Adjust API request methods in the code
+
+Enhance the weather display with animations or themes
+
+🤝 Contributions
+
+Feel free to submit pull requests or open issues for improvements!
