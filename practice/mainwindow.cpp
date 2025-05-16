@@ -553,7 +553,7 @@ void MainWindow::on_QuitButton_clicked()
 void MainWindow::on_GOTOMAINWINDOW_clicked()
 {//current weather lable settext
     ui->GOTOMAINWINDOW->setVisible(false);
-    const std::string apiKey = "75141d81f8a3bd990d9f95abb82f490f";  // Replace with your actual API key
+    const std::string apiKey = "";  // Replace with your actual API key
     CurrentWeather weatherApp(apiKey);
     weatherApp.Run(this);
     QString weatherData = weatherApp.GetWeatherDataString((0));
